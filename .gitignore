@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/admin-micro/build/
+/api-gateway/build/
+/auth-micro/build/
+/auth-micro/build/classes/java/main/
+/basket-micro/build/
+/basket-micro/build/classes/java/main/
+/book-micro/build/
+/book-micro/build/classes/java/main/
+/build/
+/order-service/build/
+/order-service/build/classes/java/main/
+/user-micro/build/
+/user-micro/build/classes/java/main/
