@@ -1,0 +1,10 @@
+rootProject.name = 'booking-rent'
+include 'auth-micro'
+include 'user-micro'
+include 'book-micro'
+include 'admin-micro'
+include 'api-gateway'
+include 'api-gateway'
+include 'order-service'
+include 'basket-micro'
+

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-amqp:2.7.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-amqp/2.7.9/31e4e2542835fee18433f99a994193a155aa7d7e/spring-boot-starter-amqp-2.7.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-amqp/2.7.9/dd3719d0116a3d57fcc4ddd89ad3dfa2b9f8eaab/spring-boot-starter-amqp-2.7.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

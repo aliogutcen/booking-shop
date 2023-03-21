@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/admin-micro/booking-rent.admin-micro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/admin-micro/booking-rent.admin-micro.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway/booking-rent.api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway/booking-rent.api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-micro/booking-rent.auth-micro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-micro/booking-rent.auth-micro.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basket-micro/booking-rent.basket-micro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/basket-micro/booking-rent.basket-micro.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book-micro/booking-rent.book-micro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/book-micro/booking-rent.book-micro.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service/booking-rent.order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service/booking-rent.order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-micro/booking-rent.user-micro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-micro/booking-rent.user-micro.main.iml" />
+    </modules>
+  </component>
+</project>
